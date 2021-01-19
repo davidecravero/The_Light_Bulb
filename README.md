@@ -10,4 +10,6 @@
    * Let's think about the planet and not be wasteful. Make sure that the lightbulb turns itself off after 5 seconds :)
    * Using another state, keep track of how many times the light bulb has been turned on. After 10 times, tell the user he used his daily electricity limit and should light a candle instead.
 
-## see it live: https://codesandbox.io/s/hopeful-feather-qhhog?file=/src/App.class.js
+## see it live:
+* App: https://qhhog.csb.app/
+* code: https://codesandbox.io/s/hopeful-feather-qhhog?file=/src/App.class.js
