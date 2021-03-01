@@ -1,6 +1,8 @@
 # The_Light_Bulb
 
+
 ## The Light Bulb
+
 
 ## The goal of the exercise: switch the lightbulb on.
 
@@ -9,6 +11,7 @@
    * Using the state as a toggler, conditionaly change the className of the lightbulb's holding div from "block" to "block night"
    * Let's think about the planet and not be wasteful. Make sure that the lightbulb turns itself off after 5 seconds :)
    * Using another state, keep track of how many times the light bulb has been turned on. After 10 times, tell the user he used his daily electricity limit and should light a candle instead.
+
 
 ## See it live:
 * App: https://qhhog.csb.app/
